@@ -11,7 +11,6 @@ Proyecto simple de autenticación usando PHP nativo con sesiones.
 ## 🛠️ Tecnologías
 - PHP
 - HTML
-- CSS (opcional)
 
 ## ▶️ Cómo usar
 1. Clonar el repositorio
